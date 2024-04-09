@@ -3,4 +3,4 @@
 <img src="https://github.com/BinaryRiper/N0tT00MuchDevilish/blob/main/media/icon.png" width="100" height="100">  
 
 *WALOOOP!!!*  
-<img src="https://github.com/BinaryRiper/N0tT00MuchDevilish/blob/main/media/devilskin.gif" width="100" height="100">
+<img src="https://github.com/BinaryRiper/N0tT00MuchDevilish/blob/main/media/devilskin.gif">
