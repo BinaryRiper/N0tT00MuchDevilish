@@ -15,7 +15,7 @@
 |NUMPAD 8 | Infinite Coins Slot C
 |END | Turn cheats off
 
-[Download link] <https://github.com/BinaryRiper/N0tT00MuchDevilish/releases/download/v.1.0/N0tT00MuchDevilish.exe>
+[Download link] <https://github.com/BinaryRiper/N0tT00MuchDevilish/releases/download/v1.0/N0tT00MuchDevilish.exe>
 
 *WALLOOOP!!!*  
 <img src="https://github.com/BinaryRiper/N0tT00MuchDevilish/blob/main/media/devilskin.gif">
