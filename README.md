@@ -8,9 +8,11 @@
 |NUMPAD 1 | Infinite Health Points
 |NUMPAD 2 | Deactivate Player Collision
 |NUMPAD 3 | Infinite Power Cards
-|NUMPAD 4 | Infinite Coins Slot A
-|NUMPAD 5 | Infinite Coins Slot B
-|NUMPAD 6 | Infinite Coins Slot C
+|NUMPAD 4 | Chalice Double Jump
+|NUMPAD 5 | Infinite Jump
+|NUMPAD 6 | Infinite Coins Slot A
+|NUMPAD 7 | Infinite Coins Slot B
+|NUMPAD 8 | Infinite Coins Slot C
 |END | Turn cheats off
 
 [Download link] <https://github.com/BinaryRiper/N0tT00MuchDevilish/releases/download/v.1.0/N0tT00MuchDevilish.exe>
